@@ -8,7 +8,7 @@ Este projeto tem como objetivo [descrever brevemente a finalidade e funcionalida
 ## 👤 Sobre Mim
 - 🙋‍♂️ Abilio Ferraz:
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Participando de bootcamps e cursos para aprimorar habilidades em linguagens como Java, PHP e Python.
+- 🎓 Participando de bootcamps e cursos para aprimorar habilidades em linguagens como HTML, CSS e JavaScript.
 
 ## 🧠 Aprendendo Mais Sobre
 ## 💻 HTML, CSS e JavaScript
