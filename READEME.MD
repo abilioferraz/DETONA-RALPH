@@ -1,6 +1,6 @@
 # Projeto: Jogo do Detona Ralph (Viagens pelo JavaScript)
 
-<img src="../DETONA-RALPH/src/imagens/ralph_logo.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/abilioferraz/DETONA-RALPH/blob/main/src/imagens/ralph_logo.png" alt="ilustração presente na pasta imagens" min-width="400px" max-width="400px" width="400px" align="right">
 
 📋 Sobre o Projeto
 Este projeto tem como objetivo [descrever brevemente a finalidade e funcionalidades principais do projeto]. Através dele, estou explorando novas tecnologias e aplicando habilidades de desenvolvimento em front-end e back-end.
